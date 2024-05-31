@@ -10,8 +10,8 @@
 </head>
 <body>
 	<div class="center-align"> 
-		<h1>Catalago de producto</h1>
-		<p>Cristopher Dered Urbina Alonso - 19051223</p>
-		<p>Computo en la nube</p>
+		<h1>INGRESA DATOS</h1>
+		<p>Jordy Rios</p>
+		<p>Cloud</p>
 		<br>
 	</div>
